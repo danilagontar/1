@@ -10,7 +10,7 @@ plt.scatter(range(100), data)
 plt.title("Диаграмма рассеяния")
 plt.show()
 '''
-
+#лошок
 '''
 #4.3.2
 x = range(1, 11)
