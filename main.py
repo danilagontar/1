@@ -54,3 +54,5 @@ x,y = float(input("x: ")),float(input("y: "))
 for name,val in [('+',x+y),('-',x-y),('*',x*y),('/',x/y if y else 'err'),('e^(x+y)',math.exp(x+y)),('sin',math.sin(x+y)),('cos',math.cos(x+y)),('x^y',x**y)]:
     print(f"{name} = {val}")
 '''
+
+#kokolo
