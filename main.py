@@ -56,3 +56,5 @@ for name,val in [('+',x+y),('-',x-y),('*',x*y),('/',x/y if y else 'err'),('e^(x+
 '''
 
 #kokolo
+
+
